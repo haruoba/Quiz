@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 
+//メイン関数
 void main() {
   runApp(const MyApp());
 }
